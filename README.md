@@ -23,8 +23,8 @@ To run this project, close it locally and then run.
 
 ## Project Explanation
 there are five folder in the project.
-`App` -- which handles the basic configuration of the project. similar to `SceneDelegate` and `AppDelegate`
-`Model` --  which contains the model of the data receive from server
-`Network` --  which contains the `API` configuration, networking, fetching data from server
-`ViewModel` -- which handles the data and the API
+`App` -- which handles the basic configuration of the project. similar to `SceneDelegate` and `AppDelegate`\n
+`Model` --  which contains the model of the data receive from server\n
+`Network` --  which contains the `API` configuration, networking, fetching data from server\n
+`ViewModel` -- which handles the data and the API\n
 `View` -- which is the view (UI)
